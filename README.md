@@ -39,7 +39,7 @@ Mobile View:
 ### Links
 
 - Solution URL: https://github.com/BronnieG/FM---single-price-grid-component
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://bronnieg.github.io/FM---single-price-grid-component/
 
 ## My process
 
